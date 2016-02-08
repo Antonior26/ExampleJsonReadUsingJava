@@ -1,0 +1,749 @@
+{
+    "BAMs": [
+        {
+            "SampleId": "LP1000001-DNA_A01",
+            "URIFile": "/genomes/by_date/2015-01-05/0000000001/LP1000001-DNA_A01/Assembly/LP1000001-DNA_A01.bam"
+        },
+        {
+            "SampleId": "LP1000002-DNA_A09",
+            "URIFile": "/genomes/by_date/2015-01-01/0000000002/LP1000002-DNA_A09/Assembly/LP1000002-DNA_A09.bam"
+        },
+        {
+            "SampleId": "LP1000003-DNA_H08",
+            "URIFile": "/genomes/by_date/2015-02-12/0000000003/LP1000003-DNA_H08/Assembly/LP1000003-DNA_H08.bam"
+        },
+        {
+            "SampleId": "LP1000004-DNA_D03",
+            "URIFile": "/genomes/by_date/2015-01-20/0000000004/LP1000004-DNA_D03/Assembly/LP1000004-DNA_D03.bam"
+        }
+    ],
+    "InterpretationRequestID": "OPA-38-1",
+    "InterpretationRequestVersion": 1,
+    "VCFs": [
+        {
+            "SampleId": "LP1000001-DNA_A01",
+            "URIFile": "/genomes/by_date/2015-01-05/0000000001/LP1000001-DNA_A01/Genotyping/LP1000001-DNA_A01.Genotyping.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000001-DNA_A01",
+            "URIFile": "/genomes/by_date/2015-01-05/0000000001/LP1000001-DNA_A01/Variations/LP1000001-DNA_A01.SV.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000001-DNA_A01",
+            "URIFile": "/genomes/by_date/2015-01-05/0000000001/LP1000001-DNA_A01/Variations/LP1000001-DNA_A01.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000002-DNA_A09",
+            "URIFile": "/genomes/by_date/2015-01-01/0000000002/LP1000002-DNA_A09/Genotyping/LP1000002-DNA_A09.Genotyping.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000002-DNA_A09",
+            "URIFile": "/genomes/by_date/2015-01-01/0000000002/LP1000002-DNA_A09/Variations/LP1000002-DNA_A09.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000002-DNA_A09",
+            "URIFile": "/genomes/by_date/2015-01-01/0000000002/LP1000002-DNA_A09/Variations/LP1000002-DNA_A09.SV.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000003-DNA_H08",
+            "URIFile": "/genomes/by_date/2015-02-12/0000000003/LP1000003-DNA_H08/Genotyping/LP1000003-DNA_H08.Genotyping.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000003-DNA_H08",
+            "URIFile": "/genomes/by_date/2015-02-12/0000000003/LP1000003-DNA_H08/Variations/LP1000003-DNA_H08.SV.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000003-DNA_H08",
+            "URIFile": "/genomes/by_date/2015-02-12/0000000003/LP1000003-DNA_H08/Variations/LP1000003-DNA_H08.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000004-DNA_D03",
+            "URIFile": "/genomes/by_date/2015-01-20/0000000004/LP1000004-DNA_D03/Genotyping/LP1000004-DNA_D03.Genotyping.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000004-DNA_D03",
+            "URIFile": "/genomes/by_date/2015-01-20/0000000004/LP1000004-DNA_D03/Variations/LP1000004-DNA_D03.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000004-DNA_D03",
+            "URIFile": "/genomes/by_date/2015-01-20/0000000004/LP1000004-DNA_D03/Variations/LP1000004-DNA_D03.SV.vcf.gz"
+        }
+    ],
+    "additionalInfo": null,
+    "analysisReturnURI": "/path/to/omicia/results",
+    "analysisVersion": "1",
+    "annotationFile": null,
+    "bigWigs": null,
+    "complexGeneticPhenomena": null,
+    "gVCFs": [
+        {
+            "SampleId": "LP1000001-DNA_A01",
+            "URIFile": "/genomes/by_date/2015-01-05/0000000001/LP1000001-DNA_A01/Variations/LP1000001-DNA_A01.genome.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000002-DNA_A09",
+            "URIFile": "/genomes/by_date/2015-01-01/0000000002/LP1000002-DNA_A09/Variations/LP1000002-DNA_A09.genome.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000003-DNA_H08",
+            "URIFile": "/genomes/by_date/2015-02-12/0000000003/LP1000003-DNA_H08/Variations/LP1000003-DNA_H08.genome.vcf.gz"
+        },
+        {
+            "SampleId": "LP1000004-DNA_D03",
+            "URIFile": "/genomes/by_date/2015-01-20/0000000004/LP1000004-DNA_D03/Variations/LP1000004-DNA_D03.genome.vcf.gz"
+        }
+    ],
+    "genomeAssemblyVersion": "GRCh37.p13",
+    "inbreedingCoefficientEstimates": null,
+    "interpretGenome": true,
+    "modeOfInheritance": "monoallelic_not_imprinted",
+    "otherFamilyHistory": null,
+    "pedigree": {
+        "gelFamilyId": "987654",
+        "participants": [
+            {
+                "additionalInformation": {
+                    "yearBirth": "1910"
+                },
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "affected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": "A",
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": "A",
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": true,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [
+                    {
+                        "ageOfOnset": null,
+                        "diseaseGroup": "Fake Disease Group",
+                        "diseaseSubGroup": "Sub Fake Disease Group",
+                        "specificDisease": "Fake Specific Disease"
+                    }
+                ],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "11111111",
+                "hpoTermList": [
+                    {
+                        "ageOfOnset": null,
+                        "modifiers": {},
+                        "term": "HP:0000407",
+                        "termPresence": true
+                    },
+                    {
+                        "ageOfOnset": null,
+                        "modifiers": {
+                            "laterality_modifier": "Bilateral",
+                            "onset_modifier": "Infantile onset",
+                            "severity_modifier": "Moderate"
+                        },
+                        "term": "HP:0001757",
+                        "termPresence": true
+                    },
+                    {
+                        "ageOfOnset": null,
+                        "modifiers": {},
+                        "term": "HP:0000618",
+                        "termPresence": true
+                    }
+                ],
+                "isProband": true,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": [
+                    "LP1000001-DNA_A01"
+                ],
+                "sex": "male",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": {
+                    "yearBirth": "1911"
+                },
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "unknown",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": true,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "22222222",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": [
+                    "LP1000002-DNA_A09"
+                ],
+                "sex": "male",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": {
+                    "yearBirth": "1912"
+                },
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": "A",
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": "A",
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "unknown",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": true,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "33333333",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": [
+                    "LP1000003-DNA_H08"
+                ],
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": {
+                    "yearBirth": "1913"
+                },
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "unknown",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": true,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "44444444",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": [
+                    "LP1000004-DNA_D03"
+                ],
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_0",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_1",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "deceased",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "male",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_2",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_3",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "male",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_4",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_5",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "affected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [
+                    {
+                        "ageOfOnset": null,
+                        "diseaseGroup": null,
+                        "diseaseSubGroup": null,
+                        "specificDisease": "affected"
+                    }
+                ],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_6",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "affected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [
+                    {
+                        "ageOfOnset": null,
+                        "diseaseGroup": null,
+                        "diseaseSubGroup": null,
+                        "specificDisease": "affected"
+                    }
+                ],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_7",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "male",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_8",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_9",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "male",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_10",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "deceased",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_11",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "female",
+                "twinGroup": null
+            },
+            {
+                "additionalInformation": null,
+                "adoptedStatus": "not_adopted",
+                "affectionStatus": "unaffected",
+                "ancestries": {
+                    "chiSquare1KGenomesPhase3Pop": null,
+                    "fathersEthnicOrigin": null,
+                    "fathersOtherRelevantAncestry": null,
+                    "mothersEthnicOrigin": null,
+                    "mothersOtherRelevantAncestry": null
+                },
+                "consanguineousParents": "no",
+                "consanguineousPopulation": null,
+                "consentStatus": {
+                    "carrierStatusConsent": false,
+                    "primaryFindingConsent": false,
+                    "programmeConsent": false,
+                    "secondaryFindingConsent": false
+                },
+                "dataModelCatalogueVersion": "v4.2",
+                "disorderList": [],
+                "fatherId": 1,
+                "gelFamilyId": "987654",
+                "gelId": "987654_12",
+                "hpoTermList": [],
+                "isProband": false,
+                "lifeStatus": "alive",
+                "monozygotic": null,
+                "motherId": 2,
+                "pedigreeId": 0,
+                "samples": null,
+                "sex": "male",
+                "twinGroup": null
+            }
+        ]
+    },
+    "pedigreeDiagram": null,
+    "virtualPanel": null,
+    "workspace": [
+        "group1"
+    ]
+}
